@@ -1,0 +1,28 @@
+{
+  "app_name": "MyFlutterApp",
+  "version": "1.0.0",
+  "environment": {
+    "dev": {
+      "base_url": "https://dev.api.myflutterapp.com",
+      "api_key": "DEV_API_KEY_123456"
+    },
+    "prod": {
+      "base_url": "https://api.myflutterapp.com",
+      "api_key": "PROD_API_KEY_123456"
+    }
+  },
+  "features": {
+    "feature_a": true,
+    "feature_b": false,
+    "feature_c": true
+  },
+  "logging": {
+    "level": "debug",
+    "enabled": true
+  },
+  "theme": {
+    "primary_color": "#FF5733",
+    "accent_color": "#33FF57",
+    "font_family": "Roboto"
+  }
+}
