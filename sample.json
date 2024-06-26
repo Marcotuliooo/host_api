@@ -1,0 +1,12 @@
+{
+  "employee_records": [
+    {
+      "employee_id": "E12345",
+      "first_name": "Marco",
+      "last_name": "Benevides",
+      "age": 21,
+      "department": "Engineering",
+      "skills": ["Java", "Python", "SQL"],
+     
+    }
+ 
